@@ -1,0 +1,72 @@
+body {
+    font-family: "outfit", sans-serif;
+    font-weight: 550;
+    color: #f6f6f6;
+    background-color: #1a1f1b;
+    text-align: center;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    height: 7.5vh;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+    background-color: #cdc7bf;
+}
+.navbar a{
+    list-style: none;
+    text-decoration: none;
+    color: #000000;
+}
+.link a{
+    margin-left: 0vw;
+    margin-right: 2.5vw;
+    font-size: 1.45em;
+}
+.logo{
+    position: inherit;
+    margin-top: 0.3vh;
+    margin-right: -0.5vw;
+    padding-left: 0.5vw;
+    padding-right: 0;
+}
+
+h1{
+    font-size: 4.5em;
+    padding-bottom: 8vh
+}
+p{
+    font-size: 3em;
+    padding: 0;
+}
+.tel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5vh;
+    margin-bottom: -5vh;
+}
+.tel p{
+    margin-left: 1vw;
+}
+.mail{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5vh;
+    margin-bottom: -5vh;
+
+}
+.mail p{
+    margin-left: 1vw;
+}
+.mail svg{
+    height: 2.4vw;
+    margin-bottom: -1vh;
+}

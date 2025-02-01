@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "C:/Users/andi/Documents/workspace"
+		}
+	],
+    "settings": {
+        "css.lint.boxModel": "ignore",
+        "html.format.wrapLineLength": 80,
+        "prettier.experimentalTernaries": true,
+        "prettier.singleAttributePerLine": true,
+        "prettier.tabWidth": 2,
+        "prettier.useTabs": true,
+        "prettier.vueIndentScriptAndStyle": true,
+        "prettier.withNodeModules": true,
+        "typescript.experimental.expandableHover": false,
+        "editor.maxTokenizationLineLength": 100000000000000000000
+    }
+}
